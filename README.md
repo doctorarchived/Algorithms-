@@ -2,7 +2,7 @@
 
 
 StringUtils contains functions for :
-1) Linear time suffix array construction
+1) Linear time suffix array construction (DC3)
 2) Constructing an LCP array from a string and its complementary suffix array in O(n)
 3) Construction of the Z-function in O(n)
 
